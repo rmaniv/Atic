@@ -35,3 +35,7 @@ The concept of File Handling through the use of binary files, is incorporated to
 2. The Flights which have been deleted by the administrator are stored in a binary file, _Trashcan.DAT_.
 3. The passenger details are stored in the file _Res.DAT_.
 4. The passenger details of cancelled reservations are stored in Cancel.DAT.
+
+##Setup
+
+The program was written in and run on Turbo C++. Changes are required to make it run on GCC compilers.
