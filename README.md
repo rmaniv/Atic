@@ -36,6 +36,6 @@ The concept of File Handling through the use of binary files, is incorporated to
 3. The passenger details are stored in the file _Res.DAT_.
 4. The passenger details of cancelled reservations are stored in Cancel.DAT.
 
-##Setup
+## Setup
 
 The program was written in and run on Turbo C++. Changes are required to make it run on GCC compilers.
