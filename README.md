@@ -38,4 +38,4 @@ The concept of File Handling through the use of binary files, is incorporated to
 
 ## Setup
 
-The program was written in and run on Turbo C++. Changes are required to make it run on GCC compilers.
+The program was written in and run on Turbo C++. Changes are required to make it run on GCC.
